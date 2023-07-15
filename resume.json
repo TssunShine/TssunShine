@@ -13,40 +13,58 @@
     "hidden": false
   },
   "profile": {
-    "name": "廖晓娟 (新茗)",
-    "email": "736xxxx86@qq.com",
-    "mobile": "156xxxx7119",
-    "github": "https://github.com/visiky (1.1k 粉丝)",
-    "zhihu": "https://www.zhihu.com/people/visiky",
-    "workExpYear": ""
+    "name": "田少山",
+    "email": "tianshaoshan@stu.xidian.edu.cn",
+    "mobile": "17393117506",
+    "github": "",
+    "zhihu": "",
+    "workExpYear": "",
+    "workPlace": "西安"
   },
   "educationList": [
     {
-      "edu_time": [
-        "2014.09.01",
-        "2018.06.30"
+      "edu_time":[
+        "2021.09",
+        "2024.06"
       ],
-      "school": "华南理工大学",
-      "major": "网络工程",
+      "school":"西安电子科技大学",
+      "major":"网络空间安全",
+      "academic_degree":"硕士"
+    },
+    {
+      "edu_time": [
+        "2016.08",
+        "2020.06"
+      ],
+      "school": "兰州大学",
+      "major": "信息安全",
       "academic_degree": "本科"
     }
   ],
   "awardList": [
     {
+      "award_info":"西安电子科技大学MoeCTF2022第二名",
+      "award_time":"2022"
+    },
+    {
       "award_info": "英语 CET6",
-      "award_time": "2015"
+      "award_time": "2019"
     },
     {
-      "award_info": "蚂蚁近卫军 卓越个人奖",
-      "award_time": "2018.09"
+      "award_info": "第五届中国“互联网+”大学生创新创业大赛甘肃省金奖",
+      "award_time": "2019"
     },
     {
-      "award_info": "前端练习生 可视化讲师",
-      "award_time": "2020.10"
+      "award_info":"全国大学生信息安全竞赛兰州大学选拔赛二等奖",
+      "award_time":"2018"
     },
     {
-      "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-      "award_time": "2021.07"
+      "award_info": "兰州大学优秀共青团员",
+      "award_time": "2018"
+    },
+    {
+      "award_info": "兰州大学优秀学生干部",
+      "award_time": "2017"
     }
   ],
   "workExpList": [
